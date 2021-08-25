@@ -1,0 +1,17 @@
+Very obv where next section starts w/ the orange line
+Nice rounded rectangle pic of me at the top 
+Big bold text with my name + title (SWE or whatever), then subtitle with more description about my passions and titles and 
+No lines separating everything
+Mainly white
+Everything round rectangles
+Scroll through your expertise
+My portfolio with thumbnail of it with the main tag related to it, plus button to go to portfolio
+About me
+
+Get referral from "stanford" computational science major (we worked on programming projects together!))
+Also can say I was a group leader in a project environment, greater leader at that! Learn many skills. What I learned from having the most knowledge in my group? Or is that too much of a flex
+
+This project is not a MVC since model (database) and views are interacting? I think... maybe not
+
+Don't need to django createapp "" cause no API/Restful/data to deal with
+
