@@ -14,4 +14,4 @@ Also can say I was a group leader in a project environment, greater leader at th
 This project is not a MVC since model (database) and views are interacting? I think... maybe not
 
 Don't need to django createapp "" cause no API/Restful/data to deal with
-
+https://www.caelinsutch.com
