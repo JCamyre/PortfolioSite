@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-
+// Have React handle all url patterns for frontend, don't need urls.py
 function App() {
   return (
-    <p></p>
-  );
+    <div>
+      <p>Test1</p>
+    </div>
+ );
 }
 
 export default App;
